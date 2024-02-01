@@ -7,4 +7,8 @@ public class clsCatepillar {
 		this.moves=moves;
 		this.Cabbage=Cabbage;
 	}
+	 int get_moves() {
+		return  moves;
+	 },mn,m
+	 
 }
