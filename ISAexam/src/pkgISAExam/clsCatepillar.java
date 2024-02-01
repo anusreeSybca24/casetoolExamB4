@@ -9,5 +9,6 @@ public class clsCatepillar {
 	}
 	 int get_moves() {
 		return  moves;
-	 }
+	 },mn,m
+	 
 }
